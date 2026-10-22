@@ -1,0 +1,28 @@
+PyBuilder version 0.13.24
+Build started at 2026-10-22 10:53:33
+------------------------------------------------------------
+[INFO]  Building calculator_AliRida_Awad version 0.1.0
+[INFO]  Executing build in /mnt/NVme/AUB/4th Year/Fall/EECE 435L/Lab 6/submission/calculator_AliRida_Awad
+[INFO]  Going to execute task run_unit_tests
+[INFO]  Processing plugin packages 'build>=1.3.0' to be installed with {}
+[INFO]  Processing plugin packages 'pypandoc~=1.4' to be installed with {'upgrade': True}
+[INFO]  Processing plugin packages 'setuptools>=76.0' to be installed with {}
+[INFO]  Processing plugin packages 'twine>=1.15.0' to be installed with {'upgrade': True}
+[INFO]  Processing plugin packages 'unittest-xml-reporting>=3.0.4' to be installed with {'upgrade': True}
+[INFO]  Creating target 'build' VEnv in '/mnt/NVme/AUB/4th Year/Fall/EECE 435L/Lab 6/submission/calculator_AliRida_Awad/target/venv/build/cpython-3.14.7.final.0'
+[INFO]  Creating target 'test' VEnv in '/mnt/NVme/AUB/4th Year/Fall/EECE 435L/Lab 6/submission/calculator_AliRida_Awad/target/venv/test/cpython-3.14.7.final.0'
+[INFO]  Running unit tests
+[INFO]  Executing unit tests from Python modules in /mnt/NVme/AUB/4th Year/Fall/EECE 435L/Lab 6/submission/calculator_AliRida_Awad/tests/unittest/calculator_AliRida_Awad
+[INFO]  Executed 10 unit tests
+[INFO]  All unit tests passed.
+------------------------------------------------------------
+BUILD SUCCESSFUL
+------------------------------------------------------------
+Build Summary
+             Project: calculator_AliRida_Awad
+             Version: 0.1.0
+      Base directory: /mnt/NVme/AUB/4th Year/Fall/EECE 435L/Lab 6/submission/calculator_AliRida_Awad
+        Environments: 
+               Tasks: prepare [1059 ms] compile_sources [0 ms] run_unit_tests [98 ms]
+Build finished at 2026-10-22 10:53:35
+Build took 1 seconds (1437 ms)
